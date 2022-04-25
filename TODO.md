@@ -1,2 +1,2 @@
 #TODO
-- Add Avatar to profile
+- ~~Add Avatar to profile~~
