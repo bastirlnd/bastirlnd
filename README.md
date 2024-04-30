@@ -2,12 +2,12 @@
 Here's a short introduction about myself:
 - 💁🏻 My name is Bastian, nice to meet you!
 - 📚 I am currently working in DevOps with, but not limited to, the following components:
-  - Pulumi via Python
+  - Pulumi via Python 🐍
   - SonarQube
-  - GitHub Enterprise
+  - GitHub Enterprise :octocat:
   - AWS
   - Different Atlassian Products
-  - Docker
+  - Docker 🐋
   - Kubernetes
   - etc.
 - Feel free to check me out on LinkedIn!
